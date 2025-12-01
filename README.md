@@ -1,5 +1,4 @@
-# TS-RaMIA: Membership Inference Attacks for Symbolic
-Music Generation Models
+# TS-RaMIA: Membership Inference Attacks for Symbolic Music Generation Models
 
 A comprehensive framework for membership inference attacks (MIA) on music generation models, combining transcription structure analysis with advanced scoring and fusion techniques.
 
