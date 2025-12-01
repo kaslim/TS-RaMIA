@@ -1,4 +1,5 @@
-# TS-RaMIA: Transcription-Structure based Representation Membership Inference Attack
+# TS-RaMIA: Membership Inference Attacks for Symbolic
+Music Generation Models
 
 A comprehensive framework for membership inference attacks (MIA) on music generation models, combining transcription structure analysis with advanced scoring and fusion techniques.
 
@@ -359,11 +360,10 @@ python notagen/inference/inference.py \
 If you use TS-RaMIA in your research, please cite:
 
 ```bibtex
-@article{ts-ramia2025,
-  title={TS-RaMIA: Membership Inference Attacks on Music Models via Transcription Structure},
-  author={Your Name},
-  journal={Your Journal},
-  year={2025}
+@inproceedings{liuts,
+  title={TS-RaMIA: Membership Inference Attacks for Symbolic Music Generation Models},
+  author={Liu, Yuxuan and Sang, Rui and Zhang, Peihong and Li, Zhixin and Zhang, Kunyang and He, Shengyuan and Li, Ye and Xu, Kaiyi and Li, Shengchen},
+  booktitle={1st International Workshop on Emerging AI Technologies for Music}
 }
 ```
 
