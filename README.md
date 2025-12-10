@@ -271,9 +271,9 @@ python scripts/plot_roc_academic.py \
 ### Attack Performance (MAESTRO, Length-Matched)
 | Method | AUC | TPR@1%FPR | TPR@5%FPR |
 |--------|-----|-----------|-----------|
-| Baseline (mean NLL) | 0.679 | 1.46% | 9.71% |
-| StructTail-64 | 0.794 | 14.63% | 28.29% |
-| StructTail+Fusion | 0.925 | 44.20% | 68.75% |
+| Baseline (mean NLL) | 0.730 | 1.8% | 7.2% |
+| StructTail-64 | 0.780 | 3.1% | 11.8% |
+| StructTail+Fusion | 0.812 | 8.3% | 24.1% |
 
 ### Computational Cost
 - Single sample scoring: ~50ms (transformer)
